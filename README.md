@@ -4,7 +4,7 @@
 
 1. *Quantum anomalous Hall effect in a three-dimensional topological-insulator–thin-film-ferromagnetic-metal heterostructure*  
 **Katsuhiro Arimoto**, Takashi Koretsune, and Kentaro Nomura  
-[Phys. Rev. B **103**, 235315 (2021)](https://journals.aps.org/prb/abstract/10.1103/PhysRevB.103.235315)
+[Phys. Rev. B **103** 235315 (2021)](https://link.aps.org/doi/10.1103/PhysRevB.103.235315)
 
 ## Presentations
 
