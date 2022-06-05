@@ -19,15 +19,6 @@
 2. 日本物理学会第77回年次大会（2022年，オンライン）15pPSC-4  
 「第一原理計算に基づく磁気相互作用を用いた磁気構造決定手法の開発」
 
-## GitHub Stats
-
-[![Hiro's GitHub stats](https://github-readme-stats.vercel.app/api?username=KatsuhiroArimoto&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
-
-<!--
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=KatsuhiroArimoto&repo=KatsuhiroArimoto)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KatsuhiroArimoto&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
--->
-
 <!--
 **KatsuhiroArimoto/KatsuhiroArimoto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
