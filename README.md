@@ -19,6 +19,12 @@
 2. 日本物理学会第77回年次大会（2022年，オンライン）15pPSC-4  
 「第一原理計算に基づく磁気相互作用を用いた磁気構造決定手法の開発」
 
+## Activities
+
+### Internship
+
+1. アイシン・ソフトウェア株式会社（July, 2022 - September 2022，WISE Program for AI Electronics, Tohoku University）
+
 <!--
 **KatsuhiroArimoto/KatsuhiroArimoto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
