@@ -23,7 +23,7 @@
 
 ### Internship
 
-1. アイシン・ソフトウェア株式会社（July, 2022 - September 2022, WISE Program for AI Electronics, Tohoku University）
+1. アイシン・ソフトウェア株式会社（July, 2022 - September 2022, [WISE Program for AI Electronics, Tohoku University](https://www.aie.tohoku.ac.jp)）
 
 <!--
 **KatsuhiroArimoto/KatsuhiroArimoto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
