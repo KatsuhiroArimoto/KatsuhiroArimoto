@@ -22,6 +22,8 @@
 *Quantum anomalous Hall effect in a three-dimensional topological-insulator-thin-film-ferromagnetic-metal heterostructure*
 4. 日本物理学会2022年秋季大会（東京）領域11，12pPSC-7  
 「第一原理計算による磁気相互作用を用いた有限波数を含む磁気構造決定手法の開発」
+5. 計算物理春の学校2023（沖縄）11  
+「第一原理計算による磁気相互作用を用いた有限波数を含む磁気構造決定手法の開発」
 
 ## Activities
 
