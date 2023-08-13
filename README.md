@@ -12,6 +12,8 @@
 
 1. 日本物理学会2021年秋季大会（オンライン）領域4，20aD1-3  
 「トポロジカル絶縁体／強磁性金属薄膜ヘテロ接合構造における量子異常Hall効果」
+2. 日本物理学会2023年年次大会（仙台）領域11，17pB203-4  
+「第一原理計算に基づく磁気相互作用を用いた磁気構造決定手法の適用」
 
 ### Poster
 
@@ -22,14 +24,17 @@
 *Quantum anomalous Hall effect in a three-dimensional topological-insulator-thin-film-ferromagnetic-metal heterostructure*
 4. 日本物理学会2022年秋季大会（東京）領域11，12pPSC-7  
 「第一原理計算による磁気相互作用を用いた有限波数を含む磁気構造決定手法の開発」
-5. 計算物理春の学校2023（沖縄）11  
+5. 計算物理春の学校2023（沖縄），発表番号11  
 「第一原理計算による磁気相互作用を用いた有限波数を含む磁気構造決定手法の開発」
+6. MRM2023/IUMRS-ICA2023 (2023, Kyoto) A-1,  
+*Development of First-principles Determination of Magnetic Structures and Propagation Vectors Using Magnetic Interaction*
 
 ## Activities
 
 ### Internship
 
 1. アイシン・ソフトウェア株式会社（July, 2022 - September 2022, [WISE Program for AI Electronics, Tohoku University](https://www.aie.tohoku.ac.jp)）
+2. 東京大学物性研究所（April 2023 - ）
 
 <!--
 **KatsuhiroArimoto/KatsuhiroArimoto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
