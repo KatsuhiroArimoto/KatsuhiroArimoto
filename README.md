@@ -26,7 +26,9 @@
 「第一原理計算による磁気相互作用を用いた有限波数を含む磁気構造決定手法の開発」
 5. 計算物理春の学校2023（沖縄），発表番号11  
 「第一原理計算による磁気相互作用を用いた有限波数を含む磁気構造決定手法の開発」
-6. MRM2023/IUMRS-ICA2023 (2023, Kyoto) A-1,  
+6. 第17回物性科学領域横断研究会（2023年，名古屋），  
+「第一原理計算による磁気相互作用を用いた有限波数を含む磁気構造決定手法の開発」
+8. MRM2023/IUMRS-ICA2023 (Kyoto) A-1, A1-P304-15  
 *Development of First-principles Determination of Magnetic Structures and Propagation Vectors Using Magnetic Interaction*
 
 ## Activities
