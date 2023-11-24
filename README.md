@@ -26,9 +26,9 @@
 「第一原理計算による磁気相互作用を用いた有限波数を含む磁気構造決定手法の開発」
 5. 計算物理春の学校2023（沖縄），発表番号11  
 「第一原理計算による磁気相互作用を用いた有限波数を含む磁気構造決定手法の開発」
-6. 第17回物性科学領域横断研究会（2023年，名古屋），  
+6. 第17回物性科学領域横断研究会（2023年，名古屋），発表番号66  
 「第一原理計算による磁気相互作用を用いた有限波数を含む磁気構造決定手法の開発」
-8. MRM2023/IUMRS-ICA2023 (Kyoto) A-1, A1-P304-15  
+7. MRM2023/IUMRS-ICA2023 (Kyoto) A-1, A1-P304-15  
 *Development of First-principles Determination of Magnetic Structures and Propagation Vectors Using Magnetic Interaction*
 
 ## Activities
@@ -36,7 +36,7 @@
 ### Internship
 
 1. アイシン・ソフトウェア株式会社（July, 2022 - September 2022, [WISE Program for AI Electronics, Tohoku University](https://www.aie.tohoku.ac.jp)）
-2. 東京大学物性研究所（April 2023 - ）
+2. [東京大学物性研究所](https://www.pasums.issp.u-tokyo.ac.jp/teams/)（April 2023 - ）
 
 <!--
 **KatsuhiroArimoto/KatsuhiroArimoto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
