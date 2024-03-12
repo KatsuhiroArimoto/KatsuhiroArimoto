@@ -30,7 +30,7 @@
 「第一原理計算による磁気相互作用を用いた有限波数を含む磁気構造決定手法の開発」
 7. MRM2023/IUMRS-ICA2023 (Kyoto) A-1, A1-P304-15  
 *Development of First-principles Determination of Magnetic Structures and Propagation Vectors Using Magnetic Interaction*
-8. APS March Meeting 2024 (Minneapolis) J00, J00.00356
+8. APS March Meeting 2024 (Minneapolis) J00, J00.00356  
 *Application of first-principles determination of magnetic structures using magnetic interactions*
 
 ## Activities
